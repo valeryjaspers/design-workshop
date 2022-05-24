@@ -147,7 +147,7 @@ Why is it not shown on the page? Can you show it by toggling a property?
 
 # Up Next
 
-Done with this exercise? [Continue to the Sidebar Menu exercise](2-sidebar-menu.md)
+Done with this exercise? [Continue to the Sidebar Menu exercise](3-sidebar-menu.md)
 
 Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
 
