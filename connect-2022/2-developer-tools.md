@@ -125,6 +125,7 @@ to make the boxes appear on the page.
 <details>
   <summary>Click here for the answer.</summary>
   There are 4 different colors.
+  
   The 4 main colours are:
 
   * Blue, which represents the content
@@ -137,17 +138,16 @@ to make the boxes appear on the page.
 
 ### Exercise 2.4
 
-You will have noticed that there is a gap between "My inbox" on the left and
-the My Notifications, My Watchlist and Password reset links on the right.
-(If you don't see it, make your browser window wider than 1200px.)
-
-Using the Elements tab, can you find what's in the gap?
-Why is it not shown on the page? Can you show it by toggling a property?
-
-### Exercise 2.5
-
 * Can you make the 3 blue links (starting with "My Notifications") less high?
 * Can you increase the space between the links?
+
+<details>
+  <summary>Click here for the answer.</summary>
+  
+  To make the links less high, you can hover over the element and find the `a` element. In the `Styles` tab, the top element you see will be `section#boxes #buttons a`. You can change the value of the `padding` (for example, to `10px`) and you will notice the links become less high.
+  
+  To increase the space between the links, we can use the same element in the Styles tab. If you look at the `margin` values, you can see the third value is `10px`. If we increase that, the spacing will increase.
+</details>
 
 # Up Next
 
@@ -159,12 +159,12 @@ Or if these exercises were too easy for you or you would like to learn more abou
 
 If you have time left, give the exercises below a try.
 
-### Exercise 2.6
+### Exercise 2.5
 
 Find the image element with Howard Tanner's avatar. Play with its `border-radius`.
 What happens if you set it to `100%`?
 
-### Exercise 2.7
+### Exercise 2.6
 
 When you hover over one of the three links, you can see that it changes color.
 This is achieved with a *pseudo-class*, which is a CSS selector that only applies
@@ -184,7 +184,7 @@ in the large horizontal bar?
 
 Note: to add a new CSS rule, click the `+` icon in the right corner of the Styles tab.
 
-### Exercise 2.8
+### Exercise 2.7
 
 Can you adjust the header so that it is 100% of the browser width?
 
