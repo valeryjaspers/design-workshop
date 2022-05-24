@@ -76,3 +76,29 @@ However, you will notice it still looks off... Inspect the `div` element below i
   }
 }
 ```
+
+## Exercise 3.5
+
+Use the 'Toggle device toolbar' to simulate a mobile device (e.g. Iphone SE), and then open the menu by clicking the hamburger icon. Use the Inspector tool to hover over the entire menu element, and you will find a `div` element with the classes `global-navigation menu-slide`. Select this element and look at the Styles tab.
+
+The first styling you will come across, will include a property called `transform`. This means it will manipulate the element's  positioning based on the given values. Its current values are `translate3d(14em, 0, 0)`, which is for a left slide-in. However, we want it to come from the right. So we simply have to change it to `-14em`.
+
+Secondly, the next styling element you will come across will be the `.page-container .global-navigation`. You can see it has a value for `left: 14em;`. Again, we want this to be changed to a right value, in our case `right: -14em`.
+
+Keeping media queries in mind, our code will end up as following:
+
+```css
+@media (max-width: 768px) {
+  body.global-nav-is-open .menu-slide {
+    transform: translate3d(-14em, 0, 0);
+  }
+  
+  .page-container .global-navigation {
+    position: fixed;
+    right: -14em;
+    left: auto;
+    top: 0;
+    z-index: 1000;
+  }
+}
+```
