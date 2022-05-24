@@ -83,7 +83,7 @@ Use the 'Toggle device toolbar' to simulate a mobile device (e.g. Iphone SE), an
 
 The first styling you will come across, will include a property called `transform`. This means it will manipulate the element's  positioning based on the given values. Its current values are `translate3d(14em, 0, 0)`, which is for a left slide-in. However, we want it to come from the right. So we simply have to change it to `-14em`.
 
-Secondly, the next styling element you will come across will be the `.page-container .global-navigation`. You can see it has a value for `left: 14em;`. Again, we want this to be changed to a right value, in our case `right: -14em`.
+Secondly, the next styling element you will come across will be the `.page-container .global-navigation`. You can see it has a value for `left: 14em;`. Again, we want this to be changed to a right value, in our case `right: -14em`. We will set a value of `left: auto` to make sure it overwrites the previous value.
 
 Keeping media queries in mind, our code will end up as following:
 
