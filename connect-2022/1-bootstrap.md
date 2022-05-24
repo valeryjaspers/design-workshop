@@ -168,7 +168,7 @@ Or if these exercises were too easy for you or you would like to learn more abou
 
 ## Optional exercises
 
-If you have time left, give the exercises below a try.
+If you have time left, give the exercises below a try. [You can find the answers here.](answers/exercise-1.md#exercise-16)
 
 ### Exercise 1.6
 
@@ -178,28 +178,20 @@ Can you use a Bootstrap utility class to accomplish this?
 Use the [documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 to find the appropriate utility classes.
 
-> [You can find the answer here.](answers/exercise-1.md#exercise-16)
-
 ### Exercise 1.7 
 
 Can you use Bootstrap utility classes to add some space between each of the cards,
 between the logo and the search bar and between the cards?
 
-> [You can find the answer here.](answers/exercise-1.md#exercise-17)
-
 ### Exercise 1.8
 
 The Globalnet logo is not quite right yet. Can you make it horizontally centered?
-
-> [You can find the answer here.](answers/exercise-1.md#exercise-18)
 
 ### Exercise 1.9
 
 On small screens, the logo is too big to fit the screen.
  
 Can you make it responsive?
-
-> [You can find the answer here.](answers/exercise-1.md#exercise-19)
 
 ### Exercise 1.10
 
@@ -210,5 +202,3 @@ Suppose you have 6 cards instead of 3, and you want to to achieve the following:
 * On small screens, the cards should be stacked vertically
 
 How would you achieve this?
-
-> [You can find the answer here.](answers/exercise-1.md#exercise-110)
