@@ -33,6 +33,8 @@ Using Bootstrap's documentation, we can do this as followed:
 }
 ```
 
+# Optional exercises
+
 ## Exercise 3.4
 
 In the HTML in the Elements tab, we can find the following element `<div class="page-container">`. Clicking on it will reveal it has a `max-width: 960px` in the Styles tab.
