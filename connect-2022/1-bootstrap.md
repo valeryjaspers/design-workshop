@@ -148,6 +148,11 @@ It should still stack on very small screens. And on large screens, it should sti
 
 ![](assets/exercise-1/goal-1.5.png)
 
+## Up Next
+
+Done with this exercise? [Continue to the Developer Tools exercise](2-developer-tools.md)
+Or if these exercises were too easy for you, feel free to try out the optional exercises below first!
+
 ## Optional exercises
 
 If you have time left, give the exercises below a try.
