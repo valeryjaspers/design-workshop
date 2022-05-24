@@ -20,6 +20,8 @@ To understand how these parts work together, [read more about the structure of S
 
 ## What is Bootstrap?
 
+`TODO: MOVE BOOTSTRAP INTRODUCTION TO PRESENTATION`
+
 As explained during the workshop, 4me allows you to use Bootstrap to make it easier
 to implement your design.
 
