@@ -253,3 +253,90 @@ The spacing utilities can be used on images as well, such as:
   </div>
 </div>
 ```
+
+## Exercise 1.9
+
+If you look at the [Bootstrap documentation for Images](https://getbootstrap.com/docs/4.1/content/images/#responsive-images), you see we can use class `img-fluid` to very easily make images responsive.
+
+```html
+<div class="row">
+  <div class="col">
+    <img class="img-fluid" src="https://learning.4me.com/images/globalnet-logo.png" alt="GlobalNet Logo">
+  </div>
+</div>
+```
+
+## Exercise 1.10
+
+If we remember that a Bootstrap `row` is made of 12 `cols`, then on larger screens we can go for `col-4` (3x4), and on medium we can go for `col-6` (2x6). On lower breakpoints, we do not specify anything, as it will automatically use the full width and stack them vertically.
+
+```html
+<div class="row justify-content-center">
+  <div class="col-md-6 col-lg-4 my-3">
+    <a class="card" href="/self-service/notifications">
+      <div class="card-header">
+        <div><i class="ii icon-notification"></i></div>
+        <div>My Notifications</div>
+      </div>
+      <div class="card-body counter-{{my_notifications_count}}">
+        <div>{{my_notifications_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-6 col-lg-4 my-3">
+    <a class="card" href="/self-service/inbox">
+      <div class="card-header">
+        <div><i class="ii icon-inbox"></i></div>
+        <div>My Inbox</div>
+      </div>
+      <div class="card-body counter-{{my_inbox_count}}">
+        <div>{{my_inbox_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-6 col-lg-4 my-3">
+    <a class="card" href="/self-service/requests">
+      <div class="card-header">
+        <div><i class="ii icon-request"></i></div>
+        <div>My Requests</div>
+      </div>
+      <div class="card-body counter-{{my_open_requests_count}}">
+        <div>{{my_open_requests_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-6 col-lg-4 my-3">
+    <a class="card" href="/self-service/notifications">
+      <div class="card-header">
+        <div><i class="ii icon-notification"></i></div>
+        <div>My Notifications</div>
+      </div>
+      <div class="card-body counter-{{my_notifications_count}}">
+        <div>{{my_notifications_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-6 col-lg-4 my-3">
+    <a class="card" href="/self-service/inbox">
+      <div class="card-header">
+        <div><i class="ii icon-inbox"></i></div>
+        <div>My Inbox</div>
+      </div>
+      <div class="card-body counter-{{my_inbox_count}}">
+        <div>{{my_inbox_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-md-6 col-lg-4 my-3">
+    <a class="card" href="/self-service/requests">
+      <div class="card-header">
+        <div><i class="ii icon-request"></i></div>
+        <div>My Requests</div>
+      </div>
+      <div class="card-body counter-{{my_open_requests_count}}">
+        <div>{{my_open_requests_count}}</div>
+      </div>
+    </a>
+  </div>
+</div>
+```
