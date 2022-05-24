@@ -268,7 +268,7 @@ If you look at the [Bootstrap documentation for Images](https://getbootstrap.com
 
 ## Exercise 1.10
 
-If we remember that a Bootstrap `row` is made of 12 `cols`, then on larger screens we can go for `col-4` (3x4), and on medium we can go for `col-6` (2x6). On lower breakpoints, we do not specify anything, as it will automatically use the full width and stack them vertically.
+If we remember that a Bootstrap `row` is made of 12 `cols`, then on larger screens we can go for `col-4` (3x4), and on medium we can go for `col-6` (2x6). On lower breakpoints, we do not specify anything, as it will automatically use the full width and stack them vertically. To make sure we have some nice spacing inbetween the cards, we can add `my-3`.
 
 ```html
 <div class="row justify-content-center">
