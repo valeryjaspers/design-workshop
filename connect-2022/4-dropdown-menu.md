@@ -56,6 +56,12 @@ It is always on the page, but hidden by default.
 
 Can you make it appear when the menu is open, just like on small screens?
 
+# Up Next
+
+Done with this exercise? [Continue to the Styling Cards exercise](5-styling-cards.md)
+
+Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
+
 ## Optional exercises
 
 If you have time left, give the exercises below a try.
