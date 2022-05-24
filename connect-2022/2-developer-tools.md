@@ -68,6 +68,11 @@ Let's explore that design.
 
 What happens on the page? What happens in the Elements tab?
 
+<details>
+  <summary>Click here for the answer.</summary>
+  The elements you hover over will be highlighted with a certain color, and the hovered over element will be highlighted and expanded in the Elements tab in the    developer tools.
+</details>
+  
 **Note**: you can also open the developer tools by right-clicking somewhere on the page and selecting "Inspect" from the menu.  
 
 ### The Styles tab 
