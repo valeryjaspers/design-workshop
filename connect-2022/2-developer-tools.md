@@ -145,6 +145,13 @@ Why is it not shown on the page? Can you show it by toggling a property?
 * Can you make the 3 blue links (starting with "My Notifications") less high?
 * Can you increase the space between the links?
 
+# Up Next
+
+Done with this exercise? [Continue to the Sidebar Menu exercise](2-sidebar-menu.md)
+
+Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
+
+
 ## Optional exercises
 
 If you have time left, give the exercises below a try.
