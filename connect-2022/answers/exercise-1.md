@@ -241,3 +241,15 @@ You can use the [Spacing utilities from the Bootstrap documentation](https://get
   </div>
 </div>
 ```
+
+## Exercise 1.8
+
+The spacing utilities can be used on images as well, such as:
+
+```html
+<div class="row">
+  <div class="col">
+    <img class="mx-auto" src="https://learning.4me.com/images/globalnet-logo.png" alt="GlobalNet Logo">
+  </div>
+</div>
+```
