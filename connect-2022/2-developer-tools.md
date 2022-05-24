@@ -149,11 +149,15 @@ to make the boxes appear on the page.
   To increase the space between the links, we can use the same element in the Styles tab. If you look at the `margin` values, you can see the third value is `10px`. If we increase that, the spacing will increase.
 </details>
 
+<br />
+
 # Up Next
 
 Done with this exercise? [Continue to the Sidebar Menu exercise](3-sidebar-menu.md)
 
 Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
+
+<br />
 
 ## Optional exercises
 
