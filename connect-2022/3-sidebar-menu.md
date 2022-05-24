@@ -101,5 +101,6 @@ Once you make the main content area wider, the elements in the header no longer 
 ### Exercise 3.6
 
 On a small screen, the menu slides in from the left. Can you make it slide in from the right instead?
+Remember [media queries](https://getbootstrap.com/docs/4.1/layout/overview/#responsive-breakpoints)!
 
 > [You can find the answer here.](answers/exercise-3.md#exercise-36)
