@@ -65,7 +65,7 @@ However, you will notice it still looks off... Inspect the `div` element below i
 }
 ```
 
-**Note:** Because `.global-header` is a child element of `.global-header-inner-container`, we could use a nifty trick called nested CSS to save us from re-writing the same CSS elements:
+**Note:** Because `.global-header` is a child element of `.global-header-inner-container`, we could use a nifty trick called nested CSS to combine the two previous code blocks and save us from re-writing the same CSS elements:
 
 ```css
 .global-header-outer-container .global-header-inner-container {
