@@ -83,3 +83,45 @@ So if we remember Bootstrap uses 12 cells of equal width per row, and we want th
   </div>
 </div>
 ```
+
+## Exercise 1.3
+
+Change the `col` width to `3` and add `justify-content-center` to the `row` as per the Bootstrap documentation.
+
+```html
+<div class="row justify-content-center">
+  <div class="col-3">
+    <a class="card" href="/self-service/notifications">
+      <div class="card-header">
+        <div><i class="ii icon-notification"></i></div>
+        <div>My Notifications</div>
+      </div>
+      <div class="card-body counter-{{my_notifications_count}}">
+        <div>{{my_notifications_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-3">
+    <a class="card" href="/self-service/inbox">
+      <div class="card-header">
+        <div><i class="ii icon-inbox"></i></div>
+        <div>My Inbox</div>
+      </div>
+      <div class="card-body counter-{{my_inbox_count}}">
+        <div>{{my_inbox_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-3">
+    <a class="card" href="/self-service/requests">
+      <div class="card-header">
+        <div><i class="ii icon-request"></i></div>
+        <div>My Requests</div>
+      </div>
+      <div class="card-body counter-{{my_open_requests_count}}">
+        <div>{{my_open_requests_count}}</div>
+      </div>
+    </a>
+  </div>
+</div>
+```
