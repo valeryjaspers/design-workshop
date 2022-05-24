@@ -151,6 +151,7 @@ Done with this exercise? [Continue to the Sidebar Menu exercise](3-sidebar-menu.
 
 Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
 
+***
 
 ## Optional exercises
 
