@@ -124,13 +124,15 @@ to make the boxes appear on the page.
 
 <details>
   <summary>Click here for the answer.</summary>
-  There are 4 different colors, however there is also a potential 5th color that indicates the available space to expand within the element.
+  There are 4 different colors.
   The 4 main colours are:
 
   * Blue, which represents the content
   * Green, which is the padding
   * Light orange, which is the border
   * Darker orange, which is the margin
+  
+  For those with a keen eye, you may have noticed there is also a fifth color. This is purple, and is used to indicate the available space an element could expand to.
 </details>
 
 ### Exercise 2.4
