@@ -67,7 +67,10 @@ The hamburger icon no longer has any visible effect now. We should always hide i
 
 Can you implement this? 
 
-Note that this should have no effect on small screens: the hamburger icon should then still be visible.  
+Note that this should have no effect on small screens: the hamburger icon should then still be visible.
+Refer to [Bootstrap's documentation on media queries](https://getbootstrap.com/docs/4.1/layout/overview/#responsive-breakpoints) to achieve this effect.
+
+> [You can find the answer here.](answers/exercise-3.md#exercise-33)
 
 # Up Next
 
@@ -87,16 +90,16 @@ the main content area (the area to the right of the menu) is a bit narrow on lar
 
 Can you make it wider, let's say 960px wide?
 
+> [You can find the answer here.](answers/exercise-3.md#exercise-34)
+
 ### Exercise 3.5
 
 Once you make the main content area wider, the elements in the header no longer line up with the rest of the page. Can you fix that?
+
+> [You can find the answer here.](answers/exercise-3.md#exercise-35)
 
 ### Exercise 3.6
 
 On a small screen, the menu slides in from the left. Can you make it slide in from the right instead?
 
-### Exercise 3.7 (hard)
-
-Can you make it slide in from the top? Your solution should always work, no matter how high the screen is.
-
-If you need a hint: you might get some inspiration from https://www.w3schools.com/cssref/css_units.asp.
+> [You can find the answer here.](answers/exercise-3.md#exercise-36)
