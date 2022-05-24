@@ -55,7 +55,14 @@ The hamburger icon no longer has any visible effect now. We should always hide i
 
 Can you implement this? 
 
-Note that this should have no effect on small screens: the hamburger icon should then still be visible.     
+Note that this should have no effect on small screens: the hamburger icon should then still be visible.  
+
+# Up Next
+
+Done with this exercise? [Continue to the Dropdown Menu exercise](4-dropdown-menu.md)
+
+Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
+
 
 ## Optional exercises 
 
