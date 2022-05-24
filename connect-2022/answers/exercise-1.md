@@ -229,3 +229,15 @@ Add `text-center` to the `div` element with the `col` classes, such as:
   </a>
 </div>
 ```
+
+## Exercise 1.7
+
+You can use the [Spacing utilities from the Bootstrap documentation](https://getbootstrap.com/docs/4.1/utilities/spacing/). For example, on the searchbar you can use `my-5`. This means add a margin value to both the top and bottom of the searchbar element. For the cards, you could use something like `mx-5`, where the `x` indicates left and right.
+
+```html
+<div class="row my-5">
+  <div class="col">
+    {{search placeholder="How can we help you?"}}
+  </div>
+</div>
+```
