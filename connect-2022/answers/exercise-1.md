@@ -210,6 +210,8 @@ Change the `col` width to `col-sm 4 lg-3`. This means that on smaller and medium
 </div>
 ```
 
+# Optional exercises
+
 ## Exercise 1.6
 
 Add `text-center` to the `div` element with the `col` classes, such as:
