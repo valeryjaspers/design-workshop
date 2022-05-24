@@ -8,8 +8,8 @@ remove all content from each tab, and press Save.
 Next, overwrite the following tabs with the content below, and press Save afterwards
 (right click and choose "Open Link in New Tab"):
 
-* CSS Tab: [Click here](https://raw.githubusercontent.com/code4me/design-workshop/master/connect-2019/assets/exercise-4/css.scss)
-* Homepage HTML Tab: [Click here](https://raw.githubusercontent.com/code4me/design-workshop/master/connect-2019/assets/exercise-4/homepage-html.html)
+* CSS Tab: [Click here](assets/exercise-4/css.scss)
+* Homepage HTML Tab: [Click here](assets/exercise-4/homepage-html.html)
 
 We will now implement a dropdown menu.
 Once again, we only want this on larger screens.
