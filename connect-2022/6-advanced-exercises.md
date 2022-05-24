@@ -17,7 +17,7 @@ Can you adjust it, so that the icon is visible *only* when the search input fiel
 
 <details>
   <summary>Click here for a hint</summary>
-  Use pseudo-classes and the [sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator).
+  Use pseudo-classes and the sibling combinator: https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator
 </details>
 
 
