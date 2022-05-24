@@ -167,3 +167,45 @@ Change the `col` width to `lg-3` so that it only applies to the larger and above
   </div>
 </div>
 ```
+
+## Exercise 1.5
+
+Change the `col` width to `col-sm 4 lg-3`. This means that on smaller and medium screens, the `col` width will be set to `4`, whereas on larger and above it will be set to `3`. Do note that on the smallest screensizes (mobile, the `xs` breakpoint) the width will be set to `12` as we left that unspecified and it is the default width.
+
+```html
+<div class="row justify-content-center">
+  <div class="col-sm-4 col-lg-3">
+    <a class="card" href="/self-service/notifications">
+      <div class="card-header">
+        <div><i class="ii icon-notification"></i></div>
+        <div>My Notifications</div>
+      </div>
+      <div class="card-body counter-{{my_notifications_count}}">
+        <div>{{my_notifications_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-sm-4 col-lg-3">
+    <a class="card" href="/self-service/inbox">
+      <div class="card-header">
+        <div><i class="ii icon-inbox"></i></div>
+        <div>My Inbox</div>
+      </div>
+      <div class="card-body counter-{{my_inbox_count}}">
+        <div>{{my_inbox_count}}</div>
+      </div>
+    </a>
+  </div>
+  <div class="col-sm-4 col-lg-3">
+    <a class="card" href="/self-service/requests">
+      <div class="card-header">
+        <div><i class="ii icon-request"></i></div>
+        <div>My Requests</div>
+      </div>
+      <div class="card-body counter-{{my_open_requests_count}}">
+        <div>{{my_open_requests_count}}</div>
+      </div>
+    </a>
+  </div>
+</div>
+```
