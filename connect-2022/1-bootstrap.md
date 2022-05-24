@@ -105,7 +105,7 @@ The end result should be
 
 ![](assets/exercise-1/goal-1.1.png)
 
-[You can find the answer here.](answers/exercise-1.md#exercise-11)
+> [You can find the answer here.](answers/exercise-1.md#exercise-11)
 
 ### Exercise 1.2
 
@@ -118,6 +118,8 @@ Bootstrap will equally divide the available cells among each `col`.
 
 Can you make the "My Inbox" card twice as wide as the other ones?
 
+> [You can find the answer here.](answers/exercise-1.md#exercise-12)
+
 ### Exercise 1.3
 
 Now try to achieve this effect by using numbered columns:
@@ -126,6 +128,8 @@ Now try to achieve this effect by using numbered columns:
 
 Hint: https://getbootstrap.com/docs/4.3/layout/grid/#horizontal-alignment
 explains how to center the columns within a row.
+
+> [You can find the answer here.](answers/exercise-1.md#exercise-13)
 
 ### Exercise 1.4
 
@@ -141,6 +145,8 @@ Can you adjust the HTML code, so that the effect of the previous question
 
 Hint: The available screen sizes are listed at https://getbootstrap.com/docs/4.3/layout/grid/#grid-options.
 
+> [You can find the answer here.](answers/exercise-1.md#exercise-14)
+
 ### Exercise 1.5
 
 You can add multiple `col-...` classes to a single element. This allows you to have multiple breakpoints.
@@ -149,6 +155,8 @@ Use this information to achieve the following effect on small to medium screens.
 It should still stack on very small screens. And on large screens, it should still look as in the previous exercise.
 
 ![](assets/exercise-1/goal-1.5.png)
+
+> [You can find the answer here.](answers/exercise-1.md#exercise-15)
 
 # Up Next
 
