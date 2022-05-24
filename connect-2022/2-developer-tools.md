@@ -107,20 +107,6 @@ In the Styles tab, you can change a lot of the CSS, for example:
 
 ### Exercise 2.3
 
-Can you change the background image of the whole page to
-https://4me-demo-assets.s3-accelerate.amazonaws.com/self-service/background-widget-europe.jpg?
-(If you see an animated background, resize your browser until it is less than 1600px wide).
-
-Optional questions:
-* What is the value of `background-size` property? 
-* What does it mean? 
-* What happens when you set the value to `contain`? What does it mean?
-* It doesn't look very nice with this value, but it becomes somewhat better
-  when you also change `background-repeat` to `repeat`.
-  For what kinds of background would you use this combination of properties?  
-
-### Exercise 2.4
-
 When you use the element inspector and move the mouse over the page,
 you can see that boxes in various colors appear on the page.
 
@@ -131,7 +117,7 @@ you can see that boxes in various colors appear on the page.
 **Note**: you can also move the mouse over the elements in the Elements tab
 to make the boxes appear on the page.
 
-### Exercise 2.5
+### Exercise 2.4
 
 You will have noticed that there is a gap between "My inbox" on the left and
 the My Notifications, My Watchlist and Password reset links on the right.
@@ -140,7 +126,7 @@ the My Notifications, My Watchlist and Password reset links on the right.
 Using the Elements tab, can you find what's in the gap?
 Why is it not shown on the page? Can you show it by toggling a property?
 
-### Exercise 2.6
+### Exercise 2.5
 
 * Can you make the 3 blue links (starting with "My Notifications") less high?
 * Can you increase the space between the links?
@@ -155,12 +141,12 @@ Or if these exercises were too easy for you or you would like to learn more abou
 
 If you have time left, give the exercises below a try.
 
-### Exercise 2.7
+### Exercise 2.6
 
 Find the image element with Howard Tanner's avatar. Play with its `border-radius`.
 What happens if you set it to `100%`?
 
-### Exercise 2.8
+### Exercise 2.7
 
 When you hover over one of the three links, you can see that it changes color.
 This is achieved with a *pseudo-class*, which is a CSS selector that only applies
@@ -180,7 +166,7 @@ in the large horizontal bar?
 
 Note: to add a new CSS rule, click the `+` icon in the right corner of the Styles tab.
 
-### Exercise 2.9
+### Exercise 2.8
 
 Can you adjust the header so that it is 100% of the browser width?
 
