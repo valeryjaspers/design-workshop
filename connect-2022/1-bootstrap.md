@@ -166,7 +166,7 @@ Done with this exercise? [Continue to the Developer Tools exercise](2-developer-
 
 Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
 
-
+<br />
 
 ## Optional exercises
 
