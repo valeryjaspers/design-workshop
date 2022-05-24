@@ -209,3 +209,21 @@ Change the `col` width to `col-sm 4 lg-3`. This means that on smaller and medium
   </div>
 </div>
 ```
+
+## Exercise 1.6
+
+Add `text-center` to the `div` element with the `col` classes, such as:
+
+```html
+<div class="col-sm-4 col-lg-3 text-center">
+  <a class="card" href="/self-service/notifications">
+    <div class="card-header">
+      <div><i class="ii icon-notification"></i></div>
+      <div>My Notifications</div>
+    </div>
+    <div class="card-body counter-{{my_notifications_count}}">
+      <div>{{my_notifications_count}}</div>
+    </div>
+  </a>
+</div>
+```
