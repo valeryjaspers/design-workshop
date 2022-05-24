@@ -72,12 +72,15 @@ Refer to [Bootstrap's documentation on media queries](https://getbootstrap.com/d
 
 > [You can find the answer here.](answers/exercise-3.md#exercise-33)
 
+<br />
+
 # Up Next
 
 Done with this exercise? [Continue to the Dropdown Menu exercise](4-dropdown-menu.md)
 
 Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
 
+<br />
 
 ## Optional exercises 
 
