@@ -77,7 +77,7 @@ However, you will notice it still looks off... Inspect the `div` element below i
 }
 ```
 
-## Exercise 3.5
+## Exercise 3.6
 
 Use the 'Toggle device toolbar' to simulate a mobile device (e.g. Iphone SE), and then open the menu by clicking the hamburger icon. Use the Inspector tool to hover over the entire menu element, and you will find a `div` element with the classes `global-navigation menu-slide`. Select this element and look at the Styles tab.
 
