@@ -190,3 +190,9 @@ Can you adjust the header so that it is 100% of the browser width?
 
 In other words, make it so that the hamburger menu icon is all the way to the left,
 and the avatar is all the way to the right.
+
+<details>
+  <summary>Click here for the answer.</summary>
+  
+  In the Elements tab, if you expand the `<section class="header">` element and select the `global-header-inner-container` div, you will see the element has a `max-width` in the Styles tab. Toggle this off, and then select the `global-header` div element below it in the Elements tab. In the Styles tab, you will see this element has a `width: 960px` value. Change this to `100%`.
+</details>
