@@ -67,13 +67,13 @@ Let's explore that design.
 * Click it and then move the mouse over the page.
 
 What happens on the page? What happens in the Elements tab?
+  
+**Note**: you can also open the developer tools by right-clicking somewhere on the page and selecting "Inspect" from the menu.  
 
 <details>
   <summary>Click here for the answer.</summary>
   The elements you hover over will be highlighted with a certain color, and the hovered over element will be highlighted and expanded in the Elements tab in the    developer tools.
 </details>
-  
-**Note**: you can also open the developer tools by right-clicking somewhere on the page and selecting "Inspect" from the menu.  
 
 ### The Styles tab 
 
@@ -121,6 +121,17 @@ you can see that boxes in various colors appear on the page.
 
 **Note**: you can also move the mouse over the elements in the Elements tab
 to make the boxes appear on the page.
+
+<details>
+  <summary>Click here for the answer.</summary>
+  There are 4 different colors, however there is also a potential 5th color that indicates the available space to expand within the element.
+  The 4 main colours are:
+
+  * Blue, which represents the content
+  * Green, which is the padding
+  * Light orange, which is the border
+  * Darker orange, which is the margin
+</details>
 
 ### Exercise 2.4
 
