@@ -117,5 +117,5 @@ Can you think of a way to implement this functionality in such a way, that it al
 
 <details>
   <summary>Click here for a hint</summary>
-  Use a hidden checkbox and the [sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator).
+  Use a hidden checkbox and the sibling combinator: https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator
 </details>
