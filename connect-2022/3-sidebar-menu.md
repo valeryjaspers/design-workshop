@@ -20,11 +20,16 @@ there's the icon for the "toggle device toolbar". When you click it,
 you can simulate various mobile devices.
 
 Next, from the sidebar menu, go to My Inbox and click on the request that's in there.
-Set the device toolbar to "responsive" and use the resize handles to smoothly adjust the width of   
+Set the device toolbar to "responsive" and use the resize handles to smoothly adjust the width of the window.  
 
 Now switch *off* the device toolbar.
 With the Element tab of the developer tools open, click a few times on the hamburger icon
 to open and close the menu. What happens in the element tab?
+
+<details>
+  <summary>Click here for the answer.</summary>
+  A class will be added and removed to the `body` element based on whether or not you have the menu open. If the menu is open, the element will have the class `global-nav-is-open`
+</details>
 
 ---
 
@@ -37,9 +42,14 @@ On small screens, we will keep the current behavior.
 ### Exercise 3.2
 
 On https://globalnet.4me-demo.com/self-service,
-use the element inspector to find the menu, that is, the HTML element that is shown / hidden
+use the element inspector to find the menu - that is, the HTML element that is shown / hidden
 when you click on the hamburger icon.
 Which CSS property is responsible for showing or hiding the menu?
+
+<details>
+  <summary>Click here for the answer.</summary>
+  The `display` property is used to display or hide the menu.
+</details>
 
 Toggle the appropriate property, so that the menu is always shown.
 
@@ -48,6 +58,8 @@ When you refresh the browser, it reverts back and your changes are gone...
 
 Can you make the appropriate change in https://globalnet.4me-demo.com/account/self_service_design,
 so that the menu is always shown?
+
+> [You can find the answer here.](answers/exercise-3.md#exercise-32)
 
 ### Exercise 3.3
 
