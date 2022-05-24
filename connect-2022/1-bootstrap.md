@@ -160,6 +160,8 @@ It should still stack on very small screens. And on large screens, it should sti
 
 > [You can find the answer here.](answers/exercise-1.md#exercise-15)
 
+<br />
+
 # Up Next
 
 Done with this exercise? [Continue to the Developer Tools exercise](2-developer-tools.md)
