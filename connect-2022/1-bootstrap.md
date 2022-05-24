@@ -168,7 +168,7 @@ Or if these exercises were too easy for you or you would like to learn more abou
 
 ## Optional exercises
 
-If you have time left, give the exercises below a try. [You can find the answers here.](answers/exercise-1.md#exercise-16)
+If you have time left, give the exercises below a try. [You can find the answers here.](answers/exercise-1.md#optional-exercises)
 
 ### Exercise 1.6
 
