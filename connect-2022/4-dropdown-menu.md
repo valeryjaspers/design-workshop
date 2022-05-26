@@ -56,20 +56,6 @@ It is always on the page, but hidden by default.
 
 Can you make it appear when the menu is open on larger screens too?
 
-<br />
-
-# Up Next
-
-Done with this exercise? [Continue to the Styling Cards exercise](5-styling-cards.md)
-
-Or if these exercises were too easy for you or you would like to learn more about this specific subject, feel free to try out the optional exercises below first!
-
-<br />
-
-## Optional exercises
-
-If you have time left, give the exercises below a try.
-
 ### Exercise 4.5
 
 Log in as howard.tanner@widget.com on https://widget.4me-demo.com and go to
@@ -82,6 +68,10 @@ If you like, you can play around with it in the developer tools
 to see what other shadow effects you can achieve.
 Also note that you use commas to add multiple shadows at the same time.
 
-### Exercise 4.6
+<br />
 
-Can you make the dropdown menu "fade in" when you click on the hamburger icon?
+# Up Next
+
+Done with this exercise? [Continue to the Styling Cards exercise](5-styling-cards.md)
+
+<br />
