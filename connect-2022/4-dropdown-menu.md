@@ -68,8 +68,6 @@ If you like, you can play around with it in the developer tools
 to see what other shadow effects you can achieve.
 Also note that you use commas to add multiple shadows at the same time.
 
-<br />
-
 # Up Next
 
 Done with this exercise? [Continue to the Styling Cards exercise](5-styling-cards.md)
