@@ -51,5 +51,10 @@ Do you remember how in one of the early exercises, we figured out that when the 
 }
 ```
 
-# Optional exercises
+## Exercise 4.5
 
+```css
+.global-nav-is-open {
+  box-shadow: 0 5px 10px 5px rgba(0, 0, 0, 0.3);
+}
+```
