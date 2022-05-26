@@ -33,6 +33,8 @@ Can you use positioning to achieve the following effect when you click the hambu
 
 ![](assets/exercise-4/menu-over-content.png)
 
+> [You can find the answer here.](answers/exercise-4.md#exercise-41)
+
 ### Exercise 4.2
 
 The menu is very high: all the way to the bottom. That doesn't look right for a dropdown menu. 
@@ -40,12 +42,16 @@ What CSS property causes this? Change it so that it fits the contents:
 
 ![](assets/exercise-4/menu-fit-content.png)
 
+> [You can find the answer here.](answers/exercise-4.md#exercise-42)
+
 ### Exercise 4.3
 
 Once more refering to https://www.w3schools.com/css/css_positioning.asp,
 can you put the menu a little higher and a little to the right?
 
 ![](assets/exercise-4/menu-offset.png)
+
+> [You can find the answer here.](answers/exercise-4.md#exercise-43)
 
 ### Exercise 4.4
 
@@ -55,6 +61,8 @@ the *backdrop*. This is the HTML element `<div id='itrp-backdrop'>`.
 It is always on the page, but hidden by default.
 
 Can you make it appear when the menu is open on larger screens too?
+
+> [You can find the answer here.](answers/exercise-4.md#exercise-44)
 
 ### Exercise 4.5
 
@@ -67,6 +75,8 @@ Can you find out how it's done and copy it over to the GlobalNet design?
 If you like, you can play around with it in the developer tools
 to see what other shadow effects you can achieve.
 Also note that you use commas to add multiple shadows at the same time.
+
+> [You can find the answer here.](answers/exercise-4.md#exercise-45)
 
 # Up Next
 
