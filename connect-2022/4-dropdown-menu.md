@@ -54,7 +54,7 @@ This effect is achieved by placing a slightly transparent HTML element over the 
 the *backdrop*. This is the HTML element `<div id='itrp-backdrop'>`.
 It is always on the page, but hidden by default.
 
-Can you make it appear when the menu is open, just like on small screens?
+Can you make it appear when the menu is open on larger screens too?
 
 <br />
 
