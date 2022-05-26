@@ -30,7 +30,7 @@ It should work on all pages of Self Service, not just the homepage.
 
 Once you have done that, can you put the person avatar (which is still right of the search and time entry icons) on the left?
 
-The dropdown menu that appears when you click on the person avatar should appear in the right direction (down and to the right of the person avatar).
+The dropdown menu that appears when you click on the person avatar should appear in the correct direction (down and to the right of the person avatar).
 
 ![](assets/exercise-6/user-menu-left.png)
 
