@@ -37,6 +37,8 @@ Responsiveness is a very important design consideration for Self Service,
 because the *same* design is used on the desktop and in the 4me mobile app.
 You have to keep this in mind at all times when you create your own design.
 
+For more information, check out [Bootstrap's grid documentation](https://getbootstrap.com/docs/4.3/layout/grid/).
+
 ## Using Bootstrap to create a layout
 
 Go to https://globalnet.4me-demo.com/account/self_service_design and fill in the four tabs with the following
