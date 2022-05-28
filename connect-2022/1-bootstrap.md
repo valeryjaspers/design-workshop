@@ -37,7 +37,7 @@ Responsiveness is a very important design consideration for Self Service,
 because the *same* design is used on the desktop and in the 4me mobile app.
 You have to keep this in mind at all times when you create your own design.
 
-For more information, check out [Bootstrap's grid documentation](https://getbootstrap.com/docs/4.3/layout/grid/).
+💡 For more information, check out [Bootstrap's grid documentation](https://getbootstrap.com/docs/4.3/layout/grid/).
 
 ## Using Bootstrap to create a layout
 
@@ -98,7 +98,7 @@ Now try to achieve this effect by using numbered columns:
 
 ![](assets/exercise-1/goal-1.3.png)
 
-Hint: https://getbootstrap.com/docs/4.3/layout/grid/#horizontal-alignment
+💡 Hint: https://getbootstrap.com/docs/4.3/layout/grid/#horizontal-alignment
 explains how to center the columns within a row.
 
 > [You can find the answer here.](answers/exercise-1.md#exercise-13)
@@ -115,7 +115,7 @@ On smaller screens, the class `col-md-4` won't do anything, which means that the
 Can you adjust the HTML code, so that the effect of the previous question
 *only* applies on "large" or wider screens?
 
-Hint: The available screen sizes are listed at https://getbootstrap.com/docs/4.3/layout/grid/#grid-options.
+💡 Hint: The available screen sizes are listed at https://getbootstrap.com/docs/4.3/layout/grid/#grid-options.
 
 > [You can find the answer here.](answers/exercise-1.md#exercise-14)
 
@@ -149,7 +149,7 @@ If you have time left, give the exercises below a try.
 The text in the cards should be centered, not aligned to the left as it currently is. 
 Can you use a Bootstrap utility class to accomplish this?
  
-Use the [documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+💡 Use the [documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 to find the appropriate utility classes.
 
 > [You can find the answer here.](answers/exercise-1.md#exercise-16)
