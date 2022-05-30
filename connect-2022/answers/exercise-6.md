@@ -58,4 +58,15 @@ To make sure the menu that opens when you click the avatar, we have to set the `
 }
 ```
 
-Finally, the exercise instructed us to put the search and time entry icons on the right side.
+Finally, the exercise instructed us to put the search and time entry icons on the right side. We can use the [flex-basis](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis) attribute for this. Try experimenting with values to achieve the desired effect (you can use percentages). Remember to put a `width: 100%` on the `right` class, too!
+
+```
+.right {
+  width: 100%;
+}
+
+.widget-user-menu {
+  order: -1;
+  flex-basis: 90%;
+}
+```
