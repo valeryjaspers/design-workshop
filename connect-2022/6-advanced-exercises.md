@@ -9,7 +9,7 @@ it may be worth reading through them to get inspiration for your own design.
 Before you get started, 
 go to https://globalnet.4me-demo.com/account/self_service_design and once again remove all content from all the tabs.   
 
-## Search icon
+## 6.1 Search icon
 
 The search bar on the homepage contains a search icon on the right (a small magnifying glass).
 
@@ -21,7 +21,7 @@ Can you adjust it, so that the icon is visible *only* when the search input fiel
 </details>
 
 
-## Header icons
+## 6.2 Header icons
 
 The hamburger icon in the header is on the left, and the other header icons are on the right.
 Can you swap them?
@@ -44,7 +44,7 @@ Can you put the search and time entry icons on the right, as in the image below?
   Have a look at https://css-tricks.com/snippets/css/a-guide-to-flexbox/.
 </details>
 
-## Home
+## 6.3 Home
 
 By using the Element Inspector of the developer tools, 
 you can see that the global navigation header contains a hidden link back to the homepage 
@@ -54,7 +54,7 @@ The link contains the name of the current 4me Account by default.
  
 Can you use CSS to change it into a clickable company logo?
 
-## My inbox widget with header
+## 6.4 My inbox widget with header
 
 You can add an inbox to the homepage by adding the following HTML to the Homepage HTML field of the Self Service Design:
 
@@ -76,7 +76,7 @@ Can you adjust it, so that the header is visible *only* when there is something 
 </details>
 
 
-## My recently used request templates with header (hard)
+## 6.5 My recently used request templates with header (hard)
 
 You can also add "my recently used request templates" to the homepage:
 
@@ -96,7 +96,7 @@ Can you adjust it, so that the header is visible *only* when there are any reque
   Use CSS flexbox layout and the sibling combinator: https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator
 </details>
 
-## Summary and details (hard)
+## 6.6 Summary and details (hard)
 
 Suppose you want to add a number of widgets to the homepage, that are by default *collapsed*.
 That is, initially you see only the header - "My inbox", "My requests", and so on.
