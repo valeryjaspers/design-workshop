@@ -22,6 +22,7 @@ So `<button type="button" class="btn">Delete</button>` results in:
 ![](../assets/exercise-1/bootstrap-button-2.png)
 
 Now, to indicate that 'deleting' is a dangerous action, you can add the `btn-danger` class to it:
+
 `<button type="button" class="btn btn-danger">Delete</button>`. The result:
 
 ![](../assets/exercise-1/bootstrap-button-3.png)
