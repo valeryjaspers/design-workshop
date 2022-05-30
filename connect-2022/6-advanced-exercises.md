@@ -65,29 +65,9 @@ Can you adjust it, so that the header is visible *only* when there is something 
   The widget `{{my_inbox_count}}` might come in handy.
 </details>
 
+## 6.4 Summary and details (hard)
 
-## 6.4 My recently used request templates with header (hard)
-
-You can also add "my recently used request templates" to the homepage:
-
-```
-<div class="my-recently-used-request-templates">
-  <h1>Recently Used Request Templates</h1>
-  {{my_recently_used_request_templates}}
-</div>
-```
-
-As in the previous exercise, the header is displayed, even if the user has not applied any request templates.
-
-Can you adjust it, so that the header is visible *only* when there are any request templates?
-
-<details>
-  <summary>Click here for a hint</summary>
-  Use CSS flexbox layout and the sibling combinator: https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator
-</details>
-
-## 6.5 Summary and details (hard)
-
+This one's a bit tricky..
 Suppose you want to add a number of widgets to the homepage, that are by default *collapsed*.
 That is, initially you see only the header - "My inbox", "My requests", and so on.
 When you click on the header, the widget expands and shows the list of items.
