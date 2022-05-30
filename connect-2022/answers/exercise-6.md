@@ -92,7 +92,7 @@ If there are no items in the inbox, the class will render as `inbox-count-0`. We
 
 ## Exercise 6.4
 
-The widget `{{my_inbox_count}}` returns the number of items you have in your inbox. We can use this in a class value on an element. For example:
+As mentioned in the hint, we can use a hidden checkbox to get a similar effect as the `<details>` tag. In Homepage HTML:
 
 ```
 <label class="inbox-count-{{my_inbox_count}}">
@@ -102,3 +102,22 @@ The widget `{{my_inbox_count}}` returns the number of items you have in your inb
   {{my_inbox}}
 </label>
 ```
+
+Note that a checkbox always needs a `<label>`. This makes it so that the text in the label element can be used to check/uncheck the checkbox and thus show our content. Then, in Homepage CSS:
+
+
+```
+[class^="inbox-count"] {
+  width: 100%;
+}
+
+.hidden-checkbox {
+  display: none;
+}
+
+.hidden-checkbox:checked ~ .widget-my-inbox {
+  display: block;
+}
+```
+
+Note that `[class^="inbox-count"]` has been added here. This is a selector that will work for all classes *containing* the words `inbox-count`, so the style will apply no matter how many inbox items there are. This is because the default label element has styling that does not make the content full width.
