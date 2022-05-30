@@ -15,5 +15,6 @@ Now do the exercises described at https://learning.4me.com/self_service_design12
 # Done?
 
 If you have decent HTML and CSS knowledge and/or are up for a bigger challenge, feel free to try out the [final advanced exercises](6-advanced-exercises.md)! Even if you do not have the knowledge, it might be worth to read through them and check the answers out.
+
 Alternatively, if you wish to work on a design yourself - or prepare something to show to the group, that is completely fine too.
 
