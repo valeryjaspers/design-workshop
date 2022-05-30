@@ -70,3 +70,22 @@ Finally, the exercise instructed us to put the search and time entry icons on th
   flex-basis: 90%;
 }
 ```
+
+## Exercise 6.2
+
+The widget `{{my_inbox_count}}` returns the number of items you have in your inbox. We can use this in a class value on an element. For example:
+
+```
+<div class="my-inbox">
+  <h1 class="inbox-count-{{my_inbox_count}}">My inbox</h1>
+  {{my_inbox}}
+</div>
+```
+
+If there are no items in the inbox, the class will render as `inbox-count-0`. We can use this class to hide the data! In Homepage CSS:
+
+```
+.inbox-count-0 {
+  display: none;
+}
+```
