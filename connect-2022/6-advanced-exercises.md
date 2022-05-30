@@ -93,7 +93,7 @@ Can you adjust it, so that the header is visible *only* when there are any reque
 
 <details>
   <summary>Click here for a hint</summary>
-  Use CSS flexbox layout and the sibling combinator: (https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator).
+  Use CSS flexbox layout and the sibling combinator: https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator
 </details>
 
 ## Summary and details (hard)
