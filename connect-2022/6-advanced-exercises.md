@@ -96,3 +96,7 @@ Can you think of a way to implement this functionality in such a way, that it al
 </details>
 
 > [You can find the answer here.](answers/exercise-6.md#exercise-64)
+
+# End
+
+You have reached the absolute end of this Connect's Self-Service Design workshop. Well done! If you *still* have time left, perhaps there is a self-service design you are really proud of and would like to show the group? Or, maybe there is a certain design or style you want to achieve, but don't know exactly how to: feel free to ask Valery/Fried, or maybe your colleagues could be of help too!
