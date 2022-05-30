@@ -71,7 +71,7 @@ Finally, the exercise instructed us to put the search and time entry icons on th
 }
 ```
 
-## Exercise 6.2
+## Exercise 6.3
 
 The widget `{{my_inbox_count}}` returns the number of items you have in your inbox. We can use this in a class value on an element. For example:
 
