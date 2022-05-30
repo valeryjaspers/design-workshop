@@ -44,17 +44,7 @@ Can you put the search and time entry icons on the right, as in the image below?
   Have a look at https://css-tricks.com/snippets/css/a-guide-to-flexbox/.
 </details>
 
-## 6.3 Home
-
-By using the Element Inspector of the developer tools, 
-you can see that the global navigation header contains a hidden link back to the homepage 
-(on all pages except the homepage).
-
-The link contains the name of the current 4me Account by default.
- 
-Can you use CSS to change it into a clickable company logo?
-
-## 6.4 My inbox widget with header
+## 6.3 My inbox widget with header
 
 You can add an inbox to the homepage by adding the following HTML to the Homepage HTML field of the Self Service Design:
 
@@ -76,7 +66,7 @@ Can you adjust it, so that the header is visible *only* when there is something 
 </details>
 
 
-## 6.5 My recently used request templates with header (hard)
+## 6.4 My recently used request templates with header (hard)
 
 You can also add "my recently used request templates" to the homepage:
 
@@ -96,7 +86,7 @@ Can you adjust it, so that the header is visible *only* when there are any reque
   Use CSS flexbox layout and the sibling combinator: https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator
 </details>
 
-## 6.6 Summary and details (hard)
+## 6.5 Summary and details (hard)
 
 Suppose you want to add a number of widgets to the homepage, that are by default *collapsed*.
 That is, initially you see only the header - "My inbox", "My requests", and so on.
