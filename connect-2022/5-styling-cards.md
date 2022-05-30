@@ -15,3 +15,4 @@ Now do the exercises described at https://learning.4me.com/self_service_design12
 # Done?
 
 If you have decent HTML and CSS knowledge and/or are up for a bigger challenge, feel free to try out the [final advanced exercises](6-advanced-exercises.md)!
+Or, if you want some more lighter exercises, feel free to check out the other [4me Training Exercises](https://learning.4me.com/self_service_design/).
