@@ -89,3 +89,16 @@ If there are no items in the inbox, the class will render as `inbox-count-0`. We
   display: none;
 }
 ```
+
+## Exercise 6.4
+
+The widget `{{my_inbox_count}}` returns the number of items you have in your inbox. We can use this in a class value on an element. For example:
+
+```
+<label class="inbox-count-{{my_inbox_count}}">
+  My inbox
+  <input class="hidden-checkbox" name="inbox-checkbox" value="false" type="checkbox">
+
+  {{my_inbox}}
+</label>
+```
