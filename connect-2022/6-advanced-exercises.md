@@ -20,6 +20,7 @@ Can you adjust it, so that the icon is visible *only* when the search input fiel
   Use pseudo-classes and the sibling combinator: https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator
 </details>
 
+> [You can find the answer here.](answers/exercise-6.md#exercise-61)
 
 ## 6.2 Header icons
 
@@ -44,6 +45,8 @@ Can you put the search and time entry icons on the right, as in the image below?
   Have a look at https://css-tricks.com/snippets/css/a-guide-to-flexbox/.
 </details>
 
+> [You can find the answer here.](answers/exercise-6.md#exercise-62)
+
 ## 6.3 My inbox widget with header
 
 You can add an inbox to the homepage by adding the following HTML to the Homepage HTML field of the Self Service Design:
@@ -64,6 +67,8 @@ Can you adjust it, so that the header is visible *only* when there is something 
   <summary>Click here for a hint</summary>
   The widget `{{my_inbox_count}}` might come in handy.
 </details>
+
+> [You can find the answer here.](answers/exercise-6.md#exercise-63)
 
 ## 6.4 Summary and details (hard)
 
@@ -89,3 +94,5 @@ Can you think of a way to implement this functionality in such a way, that it al
   <summary>Click here for a hint</summary>
   Use a hidden checkbox and the sibling combinator: https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator
 </details>
+
+> [You can find the answer here.](answers/exercise-6.md#exercise-64)
