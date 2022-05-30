@@ -16,4 +16,4 @@ Now do the exercises described at https://learning.4me.com/self_service_design12
 
 That was it for this Connect's Self-Service Design workshop! 
 
-... *However*, if you have decent HTML and CSS knowledge and are up for a bigger challenge, feel free to try out the [final advanced exercises](6-advanced-exercises.md).
+ *However*, if you have decent HTML and CSS knowledge and are up for a bigger challenge, feel free to try out the [final advanced exercises](6-advanced-exercises.md).
