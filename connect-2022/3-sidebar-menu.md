@@ -84,8 +84,6 @@ Or if these exercises were too easy for you or you would like to learn more abou
 
 ## Optional exercises 
 
-If you have time left, give the exercises below a try.
-
 ### Exercise 3.4
 
 With a sidebar menu that's always visible,
