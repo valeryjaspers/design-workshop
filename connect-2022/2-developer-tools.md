@@ -39,7 +39,7 @@ In this exercise, we will use the developer tools of Chrome.
 (If you don't have Chrome: other modern browsers, such as Firefox, Safari and Edge,
 all have similar developer tools, but the details of what you see and what you can do may vary.)
 
-**Note**: Although the developer tools make it easy to try out adjustments to your design,
+⚠️ **Note**: Although the developer tools make it easy to try out adjustments to your design,
 those adjustments are not *saved*. If you are happy with an adjustment and want to save it,
 you will still have to make the corresponding adjustment in the Self Service Design form.  
 
@@ -68,7 +68,7 @@ Let's explore that design.
 
 What happens on the page? What happens in the Elements tab?
   
-**Note**: you can also open the developer tools by right-clicking somewhere on the page and selecting "Inspect" from the menu.  
+💡 **Note**: you can also open the developer tools by right-clicking somewhere on the page and selecting "Inspect" from the menu.  
 
 <details>
   <summary>Click here for the answer.</summary>
@@ -119,7 +119,7 @@ you can see that boxes in various colors appear on the page.
 * Can you discover any elements that have *all* the colors?
 * What do the colors mean?
 
-**Note**: you can also move the mouse over the elements in the Elements tab
+💡 **Note**: you can also move the mouse over the elements in the Elements tab
 to make the boxes appear on the page.
 
 <details>
