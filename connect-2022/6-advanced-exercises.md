@@ -99,4 +99,4 @@ Can you think of a way to implement this functionality in such a way, that it al
 
 # End
 
-You have reached the absolute end of this Connect's Self-Service Design workshop. Well done! If you *still* have time left, perhaps there is a self-service design you are really proud of and would like to show the group? Or maybe you have a question or idea and would like to talk about this: feel free to ask Valery/Fried or your other colleagues.
+You have reached the absolute end of this Connect's Self-Service Design workshop. Well done! If you *still* have time left, perhaps there is a self-service design you are really proud of and would like to show the group? Or maybe you have a question or idea that you would like to talk about?
