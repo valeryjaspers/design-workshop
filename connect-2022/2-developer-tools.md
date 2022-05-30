@@ -2,17 +2,7 @@
 
 ## Introduction
 
-As you have seen in the previous exercise, implementing and adjusting a design involves a lot of switching back and forth:
-
-* In one browser tab, load the Self Service Design section of the Settings console.
-* In another browser tab, load the Self Service portal.
-* In the first tab, adjust something in the HTML and/or CSS. 
-* Press Save.
-* Switch to the second tab and refresh the browser.
-* If it doesn't look right, switch back to the first tab.
-* Adjust something in the HTML and/or CSS.
-* Press Save.
-* Switch to the second tab, and so on....
+As you have seen in the previous exercise, implementing and adjusting a design involves a lot of switching back and forth. You have to type some things out you want to try, press Save, refresh the page and see if it looks okay, go back to change it again, ...
   
 While this approach works, it is also (a bit) slow and can be frustrating.
 In practice, implementing a design will likely involve a lot of trial-and-error,
