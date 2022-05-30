@@ -142,8 +142,6 @@ Or if these exercises were too easy for you or you would like to learn more abou
 
 ## Optional exercises
 
-If you have time left, give the exercises below a try.
-
 ### Exercise 1.6
 
 The text in the cards should be centered, not aligned to the left as it currently is. 
